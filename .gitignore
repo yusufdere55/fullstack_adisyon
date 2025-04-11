@@ -1,0 +1,8 @@
+# .env dosyasını gizle
+*.env
+
+# Node modules'ı gizle (her alt dosya için)
+**/node_modules/
+
+# Eğer bazı özel dosyaları gizlemek istiyorsan, ekleyebilirsin
+**/.env
